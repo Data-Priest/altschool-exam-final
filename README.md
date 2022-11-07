@@ -1,3 +1,3 @@
 # altschool-exam-final
 
-I hope this works perfectly cuz i don see shege tire. 
+I hope it works perfectly this time, cuz i don see shege tire. 
