@@ -1,0 +1,5 @@
+---
+# yaml vars file for deploy
+
+remote_www_root: /var/www/html
+app_root_dir: laravel-realworld-example-app

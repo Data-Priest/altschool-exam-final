@@ -1,0 +1,13 @@
+- name: deploy
+  become: true
+  hosts: exam_slave4
+  vars_files:
+    - vars/main.yaml
+  roles:
+    - setup
+    - apache2
+    - php
+    - composer
+    - geerlingguy.mysql
+    - deploy
+    - pgsql
