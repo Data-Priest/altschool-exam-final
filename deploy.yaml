@@ -1,6 +1,6 @@
 - name: deploy
   become: true
-  hosts: exam_slave4
+  hosts: exam-slave5
   vars_files:
     - vars/main.yaml
   roles:
