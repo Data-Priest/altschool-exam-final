@@ -2,7 +2,7 @@ mysql_root_password: "Slag5767"
 mysql_databases:
   - name: laravel
 mysql_users:
-  - name: ubuntu
+  - name: admin
     host: "%"
     password: Slag5767
     priv: "laravel.*:ALL"
